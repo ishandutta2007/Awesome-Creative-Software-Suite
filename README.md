@@ -1,7 +1,7 @@
 # Awesome-Creative-Software-Suite
 # Awesome-Creative-Software-Suite
 
-# Top Creative Software Suite
+## Top Creative Software Suite
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 
 *Focused on Graphic Design, Illustration, Photo Editing, UI/UX, 3D, Video & Full Creative Toolchains*
